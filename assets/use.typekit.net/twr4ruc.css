@@ -1,0 +1,84 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * baskerville-bt:
+ *   - http://typekit.com/eulas/0000000000000000775aa8a5
+ * berthold-baskerville-pro:
+ *   - http://typekit.com/eulas/0000000000000000775aa89e
+ *   - http://typekit.com/eulas/0000000000000000775aa89c
+ *   - http://typekit.com/eulas/0000000000000000775aa89d
+ * helvetica-neue-lt-pro:
+ *   - http://typekit.com/eulas/0000000000000000775ad3a7
+ *   - http://typekit.com/eulas/0000000000000000775ad3ab
+ *   - http://typekit.com/eulas/0000000000000000775ad3ac
+ *   - http://typekit.com/eulas/0000000000000000775ad3b2
+ * helvetica-neue-lt-pro-cond:
+ *   - http://typekit.com/eulas/0000000000000000775ad3ad
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2026-05-15 17:01:50 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=twr4ruc&ht=tk&f=32647.32648.32651.60795.60798.60802.60803.60808.60816&a=425985237&app=typekit&e=css");
+
+@font-face {
+font-family:"berthold-baskerville-pro";
+src:url("https://use.typekit.net/af/121f4c/0000000000000000775aa89e/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/121f4c/0000000000000000775aa89e/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/121f4c/0000000000000000775aa89e/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"berthold-baskerville-pro";
+src:url("https://use.typekit.net/af/502662/0000000000000000775aa89c/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/502662/0000000000000000775aa89c/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/502662/0000000000000000775aa89c/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"berthold-baskerville-pro";
+src:url("https://use.typekit.net/af/56cb2a/0000000000000000775aa89d/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/56cb2a/0000000000000000775aa89d/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/56cb2a/0000000000000000775aa89d/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"helvetica-neue-lt-pro-cond";
+src:url("https://use.typekit.net/af/b99dc8/0000000000000000775ad3ad/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/b99dc8/0000000000000000775ad3ad/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/b99dc8/0000000000000000775ad3ad/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"helvetica-neue-lt-pro";
+src:url("https://use.typekit.net/af/38500d/0000000000000000775ad3a7/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/38500d/0000000000000000775ad3a7/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/38500d/0000000000000000775ad3a7/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"helvetica-neue-lt-pro";
+src:url("https://use.typekit.net/af/45d708/0000000000000000775ad3ab/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/45d708/0000000000000000775ad3ab/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/45d708/0000000000000000775ad3ab/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"helvetica-neue-lt-pro";
+src:url("https://use.typekit.net/af/2d9cd6/0000000000000000775ad3ac/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/2d9cd6/0000000000000000775ad3ac/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/2d9cd6/0000000000000000775ad3ac/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"helvetica-neue-lt-pro";
+src:url("https://use.typekit.net/af/6240b8/0000000000000000775ad3b2/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/6240b8/0000000000000000775ad3b2/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/6240b8/0000000000000000775ad3b2/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"baskerville-bt";
+src:url("https://use.typekit.net/af/64d016/0000000000000000775aa8a5/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/64d016/0000000000000000775aa8a5/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/64d016/0000000000000000775aa8a5/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+.tk-berthold-baskerville-pro { font-family: "berthold-baskerville-pro",sans-serif; }
+.tk-helvetica-neue-lt-pro-cond { font-family: "helvetica-neue-lt-pro-cond",sans-serif; }
+.tk-helvetica-neue-lt-pro { font-family: "helvetica-neue-lt-pro",sans-serif; }
+.tk-baskerville-bt { font-family: "baskerville-bt",sans-serif; }
